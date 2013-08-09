@@ -94,6 +94,6 @@ jstest.run({
     
     res.render(view, model);
     
-    assert.areEqual("Thank you!", accumulatedData, "");
+    assert.areEqual("", accumulatedData, "");
   }
 });
