@@ -54,7 +54,7 @@ function init(config) {
       if (!model) {
         throw new Error("Argument 'model' is required");
       }
-      var data = "", fileContent = console.log("jade", jade);
+      var data = "", fileContent = ""; // = console.log("jade", jade);
       return res.end(jade.compile(fileContent)(data));
     }
 
