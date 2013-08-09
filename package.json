@@ -1,0 +1,58 @@
+{
+  "name": "crafity-http-jade",
+  "description": "Jade plugin for crafity-http",
+  "version": "0.0.1",
+  "author": "Galina Slavova <galina@crafity.com> and Bart Riemens <briemens@crafity.com>",
+  "homepage": "https://github.com/Crafity/crafity-http-jade#readme",
+  "keywords": [ "Crafity" ],
+  "maintainers": [
+    {
+      "name": "Bart Riemens",
+      "email": "briemens@crafity.com",
+      "web": "http://crafity.com/about/bart"
+    },
+    {
+      "name": "Galina Slavova",
+      "email": "galina@crafity.com",
+      "web": "http://crafity.com/about/galina"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Bart Riemens",
+      "email": "briemens@crafity.com",
+      "web": "http://crafity.com/about/bart"
+    },
+    {
+      "name": "Galina Slavova",
+      "email": "galina@crafity.com",
+      "web": "http://crafity.com/about/galina"
+    }
+  ],
+  "main": "./main.js",
+  "directories": {},
+  "licenses": [
+    {
+      "type": "The MIT License",
+      "url": "https://github.com/Crafity/crafity-http-jade/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Crafity/crafity-http-jade/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Crafity/crafity-http-jade.git"
+  },
+  "dependencies": {
+    "crafity-jstest": "~0.1.0",
+    "jade": "~0.34.1"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "prepublish": "npm prune",
+    "test": "scripts/npm-test.sh"
+  }
+}
