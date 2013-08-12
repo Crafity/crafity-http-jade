@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "crafity-jstest": "~0.1.0",
+		"crafity-filesystem": "~0.1.0",
     "jade": "~0.34.1"
   },
   "engines": {
