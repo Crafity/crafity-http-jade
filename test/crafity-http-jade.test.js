@@ -97,3 +97,5 @@ jstest.run({
     assert.areEqual("", accumulatedData, "");
   }
 });
+
+module.exports = jstest;
