@@ -1,6 +1,6 @@
 #crafity-http-jade [![Dependency status](https://david-dm.org/Crafity/crafity-http-jade.png)](https://david-dm.org/Crafity/crafity-http-jade) [![Travis Build Status](https://travis-ci.org/Crafity/crafity-http-jade.png?branch=master)](https://travis-ci.org/Crafity/crafity-http-jade) [![NPM Module version](https://badge.fury.io/js/crafity-http-jade.png)](http://badge.fury.io/js/crafity-http-jade)  
 
-Todo: *Description*
+A HTTP Jade plugin for NodeJS 
 
 ##Installation
 Install crafity-http-jade via NPM
