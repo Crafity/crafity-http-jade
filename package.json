@@ -1,7 +1,7 @@
 {
   "name": "crafity-http-jade",
   "description": "Jade plugin for crafity-http",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Galina Slavova <galina@crafity.com> and Bart Riemens <briemens@crafity.com>",
   "homepage": "https://github.com/Crafity/crafity-http-jade#readme",
   "keywords": [ "Crafity" ],
